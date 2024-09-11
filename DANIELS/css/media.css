@@ -1,0 +1,41 @@
+@media screen and (max-width:576px) {
+
+}
+@media screen and (max-width:776px) {
+
+    .testimonials-2 div {
+        width: 100% !important;
+    }
+
+}
+@media screen and (max-width:996px) {
+
+    .s-about-img {
+        width: 100% !important;
+        margin-bottom: 100px;
+    }
+
+    .about-me {
+        width: 100% !important;
+    }
+    .testimonials-2 div {
+        width: 40% ;
+    }
+    .navbar-nav .nav-link.active{
+        padding-bottom: 1px;
+        border-bottom: 0px black solid;
+        font-weight:600 ;
+     }
+
+
+    
+}
+
+@media screen and (min-width:997px) {
+    .w-md-50 {
+        width: 50% !important;
+    }
+    .layer-white{
+        bottom:1% !important;
+    }
+}
